@@ -1,0 +1,16 @@
+/build/reports/
+/src/test/java/com/garbage/
+/target/
+*.iws
+*.ipr
+*.iml
+/build/
+/.idea/
+/src/main/resources/dynamic.properties
+debug.log
+.allure
+target
+target/
+/src/test/java/com/ui/garbage/
+src/test/java/com/ui/test/TryAny.java
+src/test/java/com/ui/pages/ReminderRedactingForm.java
